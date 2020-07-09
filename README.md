@@ -1,3 +1,5 @@
 # Hi, I'm Juhis
 
-(testing if this is enabled on my account too)
+I'm a community builder, a public speaker and a web developer currently living in Helsinki, Finland.
+
+You can find more about me on [my website](https://hamatti.org).
