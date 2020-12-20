@@ -20,6 +20,8 @@ On my freetime, I love to build small projects for myself and for the communitie
 
 [proxymon](https://github.com/Hamatti/proxymon) is a bit outdated tool for printing proxies based on PTCGO deck lists.
 
+_work in progress_: I'm building an online multiplayer cube draft tool for Pokemon TCG players as well. It's still very early stages so the code is not yet open source.
+
 ### Browser extensions and bookmarklets
 
 [viaplay-keyboard-shortcuts](https://github.com/Hamatti/viaplay-keyboard-shortcuts) adds (f)ull screen and (m)ute keyboard shortcuts to Viaplay's streaming service.
