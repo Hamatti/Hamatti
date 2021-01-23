@@ -8,6 +8,10 @@ You can find more about me on [my website](https://hamatti.org).
 
 On my freetime, I love to build small projects for myself and for the communities I'm involved in. Here are some of the highlights:
 
+### 235
+
+[235](https://github.com/Hamatti/nhl-235) is a command-line tool that brings NHL results directly to your terminal while being a tribute and homage to YLE's tekstitv page 235.
+
 ### Pokemon related stuff
 
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
