@@ -46,5 +46,6 @@ _work in progress_: I'm building an online multiplayer cube draft tool for Pokem
 
 [flamme-rouge-bot-companion-script](https://github.com/Hamatti/flamme-rouge-bot-companion-script) is a CLI tool that makes playing Flamme Rouge with bots more manageable.
 
+[taajuus](https://github.com/Hamatti/taajuus) is an online adaptation of Wavelength board game for video call gaming. 
 
 
