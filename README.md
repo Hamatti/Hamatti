@@ -1,8 +1,46 @@
 # Hi, I'm Juhis
 
+[![Twitter: Juha-Matti Santala](https://img.shields.io/badge/-twitter-%231DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/hamatti)](https://twitter.com/hamatti) [![hamatti.org](https://img.shields.io/badge/-hamatti.org-%23971226?link=https://hamatti.org)](https://hamatti.org)
+
 I'm a community builder, a public speaker and a web developer currently living in Helsinki, Finland.
 
-You can find more about me on [my website](https://hamatti.org).
+I work as a Developer Advocate at [Futurice](https://futurice.com) and I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
+
+I run [Turku ❤️ Frontend](https://turkufrontend.fi) and [Helsinki Dev Lunch](https://helsinkidevlunch.org/) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/)
+
+## Things I've written
+
+[Humane Guide to Python Errors](https://hamatti.org/guides/humane-guide-to-python-errors/) helps you navigate the error messages of Python programs.
+
+[Humane Guide to Debugging Web Apps](https://hamatti.org/guides/humane-guide-to-debugging/) gets you to the next level on your debugging skills – a crucial part of being a software developer.
+
+[How to scrape a website with Python & BeautifulSoup](https://hamatti.org/posts/how-to-scrape-website-with-python-beautifulsoup/) is a popular resource for anyone who wants to get started with getting data from websites to their own scripts.
+
+[You should start a blog today](https://hamatti.org/posts/you-should-start-a-blog-today/) shares my motivation for blogging and how blogging is a valuable tool for software developers who want to advance their careers.
+
+[Minimal Travel Table Top Game Collection](https://hamatti.org/posts/minimal-travel-tabletop-game-collection/) is a fun side project I did to make my own board gaming hobby more compatible with travelling.
+
+More can be found [at my blog](https://hamatti.org/blog)
+
+## Some of my best talks
+
+[Contemporary Documentation](https://hamatti.org/talks/contemporary-documentation/)
+
+> Teams change often. People leave and people join. In addition to those changes, we tend to forget what we were thinking. That's why it's a good practice to document those thoughts, discussions and decisions into a format that doesn't lose them.
+
+[Learning in public](https://www.youtube.com/watch?v=PXEORvNKYvc)
+
+> By documenting his own learning journey and experimentations and sharing what he has learned about software development, Juhis has ended up in a lot of great discussions with fellow developers. These discussions have further helped him become better at writing software.
+
+[I teach, therefore I learn](https://hamatti.org/talks/i-teach-therefore-i-learn/)
+
+> There are many ways to improve your skills as a developer. Teaching programming is an awesome but bit under-appreciated one. Becoming a senior developer is about so much more than just technical competency. It’s about helping others succeed, it’s about becoming a leader and it’s about being a good communicator with users, clients and teammates.
+
+[Lightning talk: Self-documenting code](https://www.youtube.com/watch?v=o8Un1w30IDk)
+
+> Some people argue that good code is self-documenting. But code can only tell you what or how but not why. In this funny 5-minute lightning talk I'll demonstrate why.
+
+Find more [at my website](https://hamatti.org/speaking) or book me 
 
 ## What do I build?
 
@@ -11,6 +49,8 @@ On my freetime, I love to build small projects for myself and for the communitie
 ### 235
 
 [235](https://github.com/Hamatti/nhl-235) is a command-line tool that brings NHL results directly to your terminal while being a tribute and homage to YLE's tekstitv page 235.
+
+You can read more about it at [Introducing: 235](https://hamatti.org/posts/introducing-235/).
 
 ### Pokemon related stuff
 
