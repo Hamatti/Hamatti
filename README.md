@@ -8,7 +8,7 @@ I work as a Developer Advocate at [Futurice](https://futurice.com) and I love le
 
 I run [Turku ❤️  Frontend](https://turkufrontend.fi) and [Helsinki Dev Lunch](https://helsinkidevlunch.org/) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
 
-I'm also the host of [codebase](https://hamatti.org), a developer community Youtube show.
+I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
 ## Things I've written
 
