@@ -64,6 +64,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 [pkmn-attack-damage](https://github.com/Hamatti/pkmn-attack-damage) is a web app that allows users to search for cards in expanded and standard format for specific damage value.
 
+[prism-extension-ptcgo](https://github.com/Hamatti/prism-extension-ptcgo) is an extension to syntax highlight library Prism.js that provides syntax highlighting for Pokemon deck lists.
+
 [proxymon](https://github.com/Hamatti/proxymon) is a bit outdated tool for printing proxies based on PTCGO deck lists.
 
 _work in progress_: I'm building an online multiplayer cube draft tool for Pokemon TCG players as well. It's still very early stages so the code is not yet open source.
