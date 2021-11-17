@@ -56,6 +56,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 ### Pokemon related stuff
 
+[gym-leader-challenge-deck-validator](https://github.com/Hamatti/gym-leader-challenge-deck-validator) is a web application for validating deck lists used in [Pokémon TCG Gym Leader Challenge](https://gymleaderchallenge.com/) format. The app can be used at [https://glc-checker.netlify.app/](https://glc-checker.netlify.app/).
+
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
 
 [jklac-proxy-builder](https://github.com/Hamatti/jklac-proxy-builder) is a set of tools to turn decklists from [Jason Klaczynki's great blog](https://jklaczpokemon.wordpress.com/) into proxies for testing.
