@@ -10,6 +10,12 @@ I run [Turku ❤️  Frontend](https://turkufrontend.fi) and [Helsinki Dev Lunch
 
 I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
+## Advent of Code
+
+I'm participating in Advent of Code this year too! I'm using Python with Jupyter Notebooks to help Santa and the elves to save Christmas. Such a nobel cause.
+
+You can follow my solutions along at [https://github.com/hamatti/adventofcode-2021](https://github.com/hamatti/adventofcode-2021).
+
 ## Things I've written
 
 [Humane Guide to Python Errors](https://hamatti.org/guides/humane-guide-to-python-errors/) helps you navigate the error messages of Python programs.
