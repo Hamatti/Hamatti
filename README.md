@@ -4,9 +4,9 @@
 
 I'm a community builder, a public speaker and a web developer currently living in Helsinki, Finland.
 
-I work as a Developer Advocate at [Futurice](https://futurice.com) and I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
+I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
 
-I run [Turku ❤️  Frontend](https://turkufrontend.fi) and [Helsinki Dev Lunch](https://helsinkidevlunch.org/) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
+I run [Turku ❤️  Frontend](https://turkufrontend.fi) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
 
 I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
