@@ -6,7 +6,9 @@ I'm a community builder, a public speaker and a web developer currently living i
 
 I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
 
-I run [Turku ❤️  Frontend](https://turkufrontend.fi) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
+I work as a developer advocate for [Firefox add-ons](https://addons.mozilla.org/) at [Mozilla](https://www.mozilla.org/).
+
+Outside work, I run [Turku ❤️  Frontend](https://turkufrontend.fi), coach students in [codebar](https://codebar.io/) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
 
 I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
@@ -21,6 +23,8 @@ I'm also the host of [codebase](https://hamatti.org/codebase), a developer commu
 [You should start a blog today](https://hamatti.org/posts/you-should-start-a-blog-today/) shares my motivation for blogging and how blogging is a valuable tool for software developers who want to advance their careers.
 
 [Minimal Travel Table Top Game Collection](https://hamatti.org/posts/minimal-travel-tabletop-game-collection/) is a fun side project I did to make my own board gaming hobby more compatible with travelling.
+
+[kittens-everywhere – how to build a browser extension](https://hamatti.org/posts/kittens-everywhere-how-to-build-a-browser-extension/) is my first tutorial on how to build a browser extension for Firefox. It's based on a class I taught in September 2022, converted into a blog format.
 
 More can be found [at my blog](https://hamatti.org/blog)
 
@@ -56,6 +60,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 ### Pokemon related stuff
 
+[Pokemon TCG card viewer](https://addons.mozilla.org/en-US/firefox/addon/pokemon-tcg-card-viewer/) a Firefox extension for Pokemon TCG players. When activated, makes Pokemon TCG Online card codes (in format of `BRS 120`) hoverable and will show the card image on hover. This makes it easy to check cards and what they do when reading through decklists in Youtube descriptions, blogs or forum posts.
+
 [gym-leader-challenge-deck-validator](https://github.com/Hamatti/gym-leader-challenge-deck-validator) is a web application for validating deck lists used in [Pokémon TCG Gym Leader Challenge](https://gymleaderchallenge.com/) format. The app can be used at [https://glc-checker.netlify.app/](https://glc-checker.netlify.app/).
 
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
@@ -72,18 +78,6 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 _work in progress_: I'm building an online multiplayer cube draft tool for Pokemon TCG players as well. It's still very early stages so the code is not yet open source.
 
-### Browser extensions and bookmarklets
-
-[viaplay-keyboard-shortcuts](https://github.com/Hamatti/viaplay-keyboard-shortcuts) adds (f)ull screen and (m)ute keyboard shortcuts to Viaplay's streaming service.
-
-[teliatv-keyboard-shortcuts](https://github.com/Hamatti/teliatv-keyboard-shortcuts) adds (f)ull screen and (m)ute keyboard shortcuts to Telia TV's streaming service.
-
-[blur-old-youtube-videos](https://github.com/Hamatti/blur-old-youtube-videos) extension allows you to blur recommended videos that are older than 1 year to make it easier to find recent videos.
-
-[on24-bookmarklet](https://gist.github.com/Hamatti/11de9fd64e226738c00c8a8b2fad024e) adds support for keyboard/presentation clicker to switch slides when presenting with ON24 webinar platform.
-
-[areena-live-chat-remover](https://gist.github.com/Hamatti/5f33ce7fd1554e43fb8527b6268a6acd) removes YLE Areena's live chat.
-
 ### Board Game related projects
 
 [blackhole-game](https://github.com/Hamatti/blackhole-game) is an experiment to convert Blackhole board game into a digital version.
@@ -93,5 +87,3 @@ _work in progress_: I'm building an online multiplayer cube draft tool for Pokem
 [flamme-rouge-bot-companion-script](https://github.com/Hamatti/flamme-rouge-bot-companion-script) is a CLI tool that makes playing Flamme Rouge with bots more manageable.
 
 [taajuus](https://github.com/Hamatti/taajuus) is an online adaptation of Wavelength board game for video call gaming. 
-
-
