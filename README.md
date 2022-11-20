@@ -62,6 +62,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 [Pokemon TCG card viewer](https://addons.mozilla.org/en-US/firefox/addon/pokemon-tcg-card-viewer/) a Firefox extension for Pokemon TCG players. When activated, makes Pokemon TCG Online card codes (in format of `BRS 120`) hoverable and will show the card image on hover. This makes it easy to check cards and what they do when reading through decklists in Youtube descriptions, blogs or forum posts.
 
+[Pokemon TCG Online Redeem Code Helper](https://github.com/Hamatti/ptcgo-redeem-code-helper) a Firefox extension to help Pokemon TCG players when redeeming large amounts of bulk codes in Pokemon TCG Online client.
+
 [gym-leader-challenge-deck-validator](https://github.com/Hamatti/gym-leader-challenge-deck-validator) is a web application for validating deck lists used in [Pokémon TCG Gym Leader Challenge](https://gymleaderchallenge.com/) format. The app can be used at [https://glc-checker.netlify.app/](https://glc-checker.netlify.app/).
 
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
