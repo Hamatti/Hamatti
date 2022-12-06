@@ -1,6 +1,6 @@
 # Hi, I'm Juhis
 
-[![Twitter: Juha-Matti Santala](https://img.shields.io/badge/-twitter-%231DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/hamatti)](https://twitter.com/hamatti) [![hamatti.org](https://img.shields.io/badge/-hamatti.org-%23971226?link=https://hamatti.org)](https://hamatti.org)
+[![hamatti.org](https://img.shields.io/badge/-hamatti.org-%23971226?link=https://hamatti.org)](https://hamatti.org)
 
 I'm a community builder, a public speaker and a web developer currently living in Berlin, Germany.
 
