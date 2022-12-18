@@ -12,6 +12,8 @@ Outside work, I run [Turku ❤️  Frontend](https://turkufrontend.fi), coach st
 
 I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
+In social media, you can find me at <a href="https://mastodon.world/@hamatti" rel="me">Mastodon</a>.
+
 ## Things I've written
 
 [Humane Guide to Python Errors](https://hamatti.org/guides/humane-guide-to-python-errors/) helps you navigate the error messages of Python programs.
