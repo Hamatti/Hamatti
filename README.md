@@ -78,6 +78,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 ### Board Game related projects
 
+[Potluck](https://hamatti.org/tabletop/potluck/) is a semi-universal deck that I've designed. It fits into a pocket and plays a ton of great games.
+
 [blackhole-game](https://github.com/Hamatti/blackhole-game) is an experiment to convert Blackhole board game into a digital version.
 
 [flamme-rouge-bot-companion](https://github.com/Hamatti/flamme-rouge-bot-companion) is a web app that makes playing Flamme Rouge with bots more manageable.
