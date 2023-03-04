@@ -68,8 +68,6 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
 
-[jklac-proxy-builder](https://github.com/Hamatti/jklac-proxy-builder) is a set of tools to turn decklists from [Jason Klaczynki's great blog](https://jklaczpokemon.wordpress.com/) into proxies for testing.
-
 [ptcgo-parser](https://github.com/Hamatti/ptcgo-parser) is a NMP package for parsing PTCGO deck lists into PokemonTCG.io API compatible format.
 
 [pkmn-attack-damage](https://github.com/Hamatti/pkmn-attack-damage) is a web app that allows users to search for cards in expanded and standard format for specific damage value.
@@ -77,8 +75,6 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 [prism-extension-ptcgo](https://github.com/Hamatti/prism-extension-ptcgo) is an extension to syntax highlight library Prism.js that provides syntax highlighting for Pokemon deck lists.
 
 [proxymon](https://github.com/Hamatti/proxymon) is a bit outdated tool for printing proxies based on PTCGO deck lists.
-
-_work in progress_: I'm building an online multiplayer cube draft tool for Pokemon TCG players as well. It's still very early stages so the code is not yet open source.
 
 ### Board Game related projects
 
