@@ -2,7 +2,7 @@
 
 [![hamatti.org](https://img.shields.io/badge/-hamatti.org-%23971226?link=https://hamatti.org)](https://hamatti.org)
 
-I'm a community builder, a public speaker and a web developer currently living in Berlin, Germany.
+I'm a community builder, a public speaker and a web developer currently living in Turku, Finland.
 
 I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
 
