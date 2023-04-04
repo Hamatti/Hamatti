@@ -12,6 +12,8 @@ I'm also the host of [codebase](https://hamatti.org/codebase), a developer commu
 
 In social media, you can find me at <a href="https://mastodon.world/@hamatti" rel="me">Mastodon</a>.
 
+Sign up for [Syntax Error](https://www.syntaxerror.tech/), a monthly newsletter about debugging that I author.
+
 ## Things I've written
 
 [Humane Guide to Python Errors](https://hamatti.org/guides/humane-guide-to-python-errors/) helps you navigate the error messages of Python programs.
