@@ -16,6 +16,10 @@ Sign up for [Syntax Error](https://www.syntaxerror.tech/), a monthly newsletter 
 
 ## Things I've written
 
+[Developer's Guide to Communities](https://hamatti.org/posts/developers-guide-to-communities/) is a guide for developers to figure out the why and how of getting involved with your local and global tech communities.
+
+[Guide to landing your first dev job](https://hamatti.org/posts/guide-to-landing-your-first-dev-job/) is aimed for anyone seeking to land their first job as a developer.
+
 [Humane Guide to Python Errors](https://hamatti.org/guides/humane-guide-to-python-errors/) helps you navigate the error messages of Python programs.
 
 [Humane Guide to Debugging Web Apps](https://hamatti.org/guides/humane-guide-to-debugging/) gets you to the next level on your debugging skills – a crucial part of being a software developer.
@@ -24,7 +28,7 @@ Sign up for [Syntax Error](https://www.syntaxerror.tech/), a monthly newsletter 
 
 [You should start a blog today](https://hamatti.org/posts/you-should-start-a-blog-today/) shares my motivation for blogging and how blogging is a valuable tool for software developers who want to advance their careers.
 
-[Minimal Travel Table Top Game Collection](https://hamatti.org/posts/minimal-travel-tabletop-game-collection/) is a fun side project I did to make my own board gaming hobby more compatible with travelling.
+[Minimal Travel Table Top Game Collection IV: Potluck](https://hamatti.org/tabletop/potluck) is the newest iteration of a fun side project I did to make my own board gaming hobby more compatible with travelling.
 
 [kittens-everywhere – how to build a browser extension](https://hamatti.org/posts/kittens-everywhere-how-to-build-a-browser-extension/) is my first tutorial on how to build a browser extension for Firefox. It's based on a class I taught in September 2022, converted into a blog format.
 
