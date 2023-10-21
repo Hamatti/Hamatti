@@ -6,7 +6,7 @@ I'm a community builder, a public speaker and a web developer currently living i
 
 I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
 
-I run [Turku ❤️  Frontend](https://turkufrontend.fi), coach students in [codebar](https://codebar.io/) and I'm active in [Koodiklinikka community](https://koodiklinikka.fi/).
+I run [Turku ❤️  Frontend](https://turkufrontend.fi), coach students in [codebar](https://codebar.io/) and I'm an admin in [Koodiklinikka community](https://koodiklinikka.fi/).
 
 I'm also the host of [codebase](https://hamatti.org/codebase), a developer community Youtube show.
 
