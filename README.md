@@ -36,6 +36,10 @@ More can be found [at my blog](https://hamatti.org/blog)
 
 ## Some of my best talks
 
+[Debugging Python](https://hamatti.org/talks/debugging-python/)
+
+>  Debugging can be a stressful experience to a developer. In this talk, I provide practical and hands-on tips both for dealing both with the processes and approaches as well as the technical tools and approaches that can help Python developers turn stressful debugging situations into joyful experiences. 
+
 [Contemporary Documentation](https://hamatti.org/talks/contemporary-documentation/)
 
 > Teams change often. People leave and people join. In addition to those changes, we tend to forget what we were thinking. That's why it's a good practice to document those thoughts, discussions and decisions into a format that doesn't lose them.
@@ -51,6 +55,10 @@ More can be found [at my blog](https://hamatti.org/blog)
 [Lightning talk: Self-documenting code](https://www.youtube.com/watch?v=o8Un1w30IDk)
 
 > Some people argue that good code is self-documenting. But code can only tell you what or how but not why. In this funny 5-minute lightning talk I'll demonstrate why.
+
+[Lightning talk: Comparing version numbers](https://hamatti.org/slides/comparing)
+
+> Comparing version numbers sounds relatively straight-forward until you go down the rabbit hole and explore the world of different systems. This 5-minute lightning talk is half educational, half makes-people-laugh entertaining look into the wild world of versioning systems.
 
 Find more [at my website](https://hamatti.org/speaking) or book me 
 
