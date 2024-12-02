@@ -2,6 +2,12 @@
 
 [![hamatti.org](https://img.shields.io/badge/-hamatti.org-%23971226?link=https://hamatti.org)](https://hamatti.org)
 
+> [!NOTE]
+> I'm solving Advent of Code puzzles again this year.
+> I'm using Python and writing explanations in my [Advent of Code Digital Garden](https://hamatti.org/adventofcode/2024).
+>
+> In addition to code explanations, I'm sharing my entire notes that I write during this month as I solve the problems to showcase how I take notes as a developer.
+
 I'm a community builder, a public speaker and a web developer currently living in Turku, Finland.
 
 I love learning, teaching and sharing what I've learned. I publish [a weekly blog](https://hamatti.org/blog), [speak in tech events](https://hamatti.org/speaking) and teach/coach in programming workshops and mentor junior developers.
