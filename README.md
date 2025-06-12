@@ -28,6 +28,8 @@ In social media, you can find me at <a href="https://mastodon.world/@hamatti" re
 
 [kittens-everywhere – how to build a browser extension](https://hamatti.org/posts/kittens-everywhere-how-to-build-a-browser-extension/) is my first tutorial on how to build a browser extension for Firefox. It's based on a class I taught in September 2022, converted into a blog format.
 
+[Notes are a tool for...](https://hamatti.org/posts/notes-are-a-tool-for/) explains why I take notes and what kind of value I get from them. [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/) expands on it from a software development perspective.
+
 More can be found [at my blog](https://hamatti.org/blog)
 
 ## Some of my best talks
