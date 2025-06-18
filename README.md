@@ -74,6 +74,10 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 [config-renderer](https://github.com/hamatti/config-renderer) is a Python command-line tool that renders HTML documentation pages from dotfiles. It uses its own mini-markup language to customize the output while keeping the original configuration files functional and readable.
 
+### phpBB Notifier
+
+[phpBB Notifier](https://github.com/Hamatti/phpbb-notifier) is a Python command-line tool that watches phpBB forum threads (across multiple forums!) and notifies of new posts with native macos notifications.
+
 ### Pokemon related stuff
 
 [Pokemon TCG card viewer](https://addons.mozilla.org/en-US/firefox/addon/pokemon-tcg-card-viewer/) a Firefox extension for Pokemon TCG players. When activated, makes Pokemon TCG Online card codes (in format of `BRS 120`) hoverable and will show the card image on hover. This makes it easy to check cards and what they do when reading through decklists in Youtube descriptions, blogs or forum posts.
