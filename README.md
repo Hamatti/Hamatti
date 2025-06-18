@@ -42,6 +42,14 @@ More can be found [at my blog](https://hamatti.org/blog)
 
 > Teams change often. People leave and people join. In addition to those changes, we tend to forget what we were thinking. That's why it's a good practice to document those thoughts, discussions and decisions into a format that doesn't lose them.
 
+[Why developers should write blog posts](https://notes.hamatti.org/my-projects/talks/why-developers-should-write-blog-posts-(talk))
+
+> Writing down what you learn and think is a powerful tool and sharing them with others can have a big impact in your life. I’ve been blogging about technology on and off since 2013 and more consistently since 2018. In this talk I share what I’ve learned by blogging as a developer and hope to inspire you to pick up your proverbial pen and start writing.
+
+[Build a portfolio](https://notes.hamatti.org/my-projects/talks/build-a-portfolio-(talk))
+
+> How to gain experience before you have experience? This talk is aimed to anyone either at the beginning of their developer career or at any spot where they want to stand out from the crowd when looking for a job. Juhis walks you through how to come up with portfolio project ideas, how to showcase them and how to use them effectively when looking for a job.
+
 [Learning in public](https://www.youtube.com/watch?v=PXEORvNKYvc)
 
 > By documenting his own learning journey and experimentations and sharing what he has learned about software development, Juhis has ended up in a lot of great discussions with fellow developers. These discussions have further helped him become better at writing software.
