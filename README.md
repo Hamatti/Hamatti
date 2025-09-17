@@ -96,6 +96,8 @@ You can read more about it at [Introducing: 235](https://hamatti.org/posts/intro
 
 [export-pack-sim: Bookmarklet to export pulls from pokemoncard.io/pack-sim](https://github.com/Hamatti/export-pack-sim) is a bookmarklet that allows exporting pulls from pokemoncard.io/pack-sim virtual booster opening tool.
 
+[progression-series-website](https://github.com/Hamatti/progression-series-website) is a website to showcase a simple Pokémon TCG tournament results. We use it for our Progression Series.
+
 [card-print-css](https://github.com/Hamatti/card-print-css) is a CSS styling that turns any number of `<img>` (of playing cards) on a page into the correct size for cutting and sleeving when printed on A4 page. I use it for prototyping, playtesting and proxying.
 
 [ptcgo-parser](https://github.com/Hamatti/ptcgo-parser) is a NMP package for parsing PTCGO deck lists into PokemonTCG.io API compatible format.
